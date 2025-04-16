@@ -1,3 +1,3 @@
-# IBM-DS-Capstone
+# IBM-DS-Capstone Project
 
-Thia is part of the IBM Data Profesional Course.
+Thia is part of the IBM Data Proffesional Course.
